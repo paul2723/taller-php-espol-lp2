@@ -14,6 +14,10 @@
   <p>Si ves esta página, PHP y el servidor están corriendo correctamente en tu Codespace.</p>
   <p><strong>Hora del servidor:</strong> <?php echo $fecha; ?></p>
 
+  <h2>Gestor de Tareas Personal</h2>
+  <p><a href="formulario.php">Registrarse</a></p>
+  <p><a href="ingreso.php">Iniciar sesión</a></p>
+
   <h2>Archivos de ejemplo</h2>
   <ul>
     <li><a href="ejemplos/login_simple.php">Login simple (POST)</a></li>
@@ -24,3 +28,4 @@
 </div>
 </body>
 </html>
+
